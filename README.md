@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world! Meu nome é João Victor!
+
+- 🧑🏽‍💻 Estudando PHP and JS!
 
 <!--
 **JoaoVictor0/JoaoVictor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- width="26px" height="26px" -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictor0&show_icons=true&theme=dark)
+
+<div style="display:inline-block">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" height="26px"/>  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" height="26px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" height="26px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26px" height="26px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26px" height="26px"/>
+</div>
