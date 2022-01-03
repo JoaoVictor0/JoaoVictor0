@@ -1,4 +1,4 @@
-### Hello world! Meu nome é João Victor!
+### Hello world!
 
 - 🧑🏽‍💻 Estudando PHP and JS!
 
