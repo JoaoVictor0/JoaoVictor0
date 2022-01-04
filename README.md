@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- width="26px" height="26px" -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictor0&show_icons=true&theme=dark)
-
 <div style="display:inline-block">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" height="26px"/>  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" height="26px"/>
