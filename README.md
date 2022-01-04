@@ -1,6 +1,6 @@
 ### Hello world!
 
-- 🧑🏽‍💻 Estudando PHP and JS!
+- 🧑🏽‍💻 Estudando PHP!
 
 <!--
 **JoaoVictor0/JoaoVictor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
