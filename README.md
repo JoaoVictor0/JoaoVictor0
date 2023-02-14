@@ -1,25 +1,36 @@
-### Hello world!
 
-- 🧑🏽‍💻 Estudando PHP!
+### Olá! Eu sou o João Victor! 
 
-<!--
-**JoaoVictor0/JoaoVictor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictor0&show_icons=true&theme=transparent)
 
-Here are some ideas to get you started:
+## Techs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end
+
 <div style="display:inline-block">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" height="26px"/>  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" height="26px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" height="26px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26px" height="26px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26px" height="26px"/>
+   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
 </div>
+
+
+### Back-End
+<div style="display:inline-block">
+   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</div>
+   
+### Database
+
+<div style="display:inline-block">
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</div>
+
+
+### OS
+
+<div style="display:inline-block">
+   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</div>
+   
