@@ -3,7 +3,7 @@
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictor0&show_icons=true&theme=transparent)
 
-## Techs
+## Skills
 
 ### Front-end
 
